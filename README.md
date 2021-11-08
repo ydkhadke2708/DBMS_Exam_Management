@@ -1,8 +1,9 @@
 # DBMS_Exam_Management
 Database Management Small Project
 University Exam Management 
-111903130 Vrushabh Patil 111903131 Yadnyadeep Khadke
+111903130 Vrushabh Patil 111903131 Yadnyadeep Khadke\n
 Guidance : Prof V. M. Khadase
+
 
 Problem Statement: 
 Basic database management project. It is manage the details of Examination, Branches,  Subjects  ,Marks,  Courses, Session all related to University Exam.
