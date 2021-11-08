@@ -3,7 +3,8 @@ Database Management Small Project
 
 University Exam Management 
 
-111903130 Vrushabh Patil 111903131 Yadnyadeep Khadke
+111903130 Vrushabh Patil 
+111903131 Yadnyadeep Khadke
 
 Guidance : Prof V. M. Khadase
 
@@ -43,12 +44,22 @@ a) As Administrator:
 
 
 b) As Student:
+
     • Login for Student
+    
     • Student can see own information , courses with department .
+    
     • See their subject with professors
+    
     • See their exam related details and also own results
+    
     • See their attendance status and fees payments
+    
 c) As Professor:
+
     • Login for Professor
+    
     • Professor can see and update own information
+    
     • Professor can also see their subject related course along with department.
+    
